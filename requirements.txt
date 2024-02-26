@@ -1,0 +1,13 @@
+Flask
+ftfy
+gunicorn
+importlib-metadata
+nltk
+numpy
+pandas
+regex
+requests
+requests-html
+resume-parser
+scikit-learn
+scipy
